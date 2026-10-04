@@ -62,14 +62,6 @@ An AI-powered platform for reporting, managing, and intelligently triaging munic
 <b>Tech:</b> React • FastAPI • PostgreSQL • Redis • Docker • Kubernetes • AI
 </p>
 
-<p><b>👥 Contributors</b></p>
-
-<a href="https://github.com/faisalmemon353/civicpulse/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=faisalmemon353/civicpulse" />
-</a>
-
-<br><br>
-
 <a href="https://github.com/faisalmemon353/civicpulse">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
 </a>
@@ -81,20 +73,13 @@ An AI-powered platform for reporting, managing, and intelligently triaging munic
 <h3>🗄️ Disaster MIS</h3>
 
 <p>
-A database-driven Management Information System designed to manage disaster-related information, resources, operations, and reporting.
+A database-driven Management Information System developed to manage
+disaster-related information, resources, operations, and reporting.
 </p>
 
 <p>
 <b>Focus:</b> Database Design • SQL • Database Management • MIS
 </p>
-
-<p><b>👥 Contributors</b></p>
-
-<a href="https://github.com/faisalmemon353/disaster-mis/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=faisalmemon353/disaster-mis" />
-</a>
-
-<br><br>
 
 <a href="https://github.com/faisalmemon353/disaster-mis">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
@@ -104,6 +89,19 @@ A database-driven Management Information System designed to manage disaster-rela
 
 </tr>
 </table>
+
+### 👥 Project Teams
+
+**🏙️ CivicPulse**
+
+[Faisal Memon](https://github.com/faisalmemon353) •
+[Hassan Zahid](https://github.com/Hassan-Zahid110)
+
+**🗄️ Disaster MIS**
+
+[Faisal Memon](https://github.com/faisalmemon353) •
+[Hassan Zahid](https://github.com/Hassan-Zahid110) •
+[Salman Ahmed](https://github.com/Salman-ahmed-2)
 
 ---
 
