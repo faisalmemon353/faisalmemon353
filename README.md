@@ -85,9 +85,6 @@ An Agricultural Subsidy and Input Management System designed to streamline subsi
 
 </td>
 
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -106,7 +103,6 @@ A database-driven Management Information System developed to manage disaster-rel
 </a>
 
 </td>
-
 </tr>
 </table>
 
