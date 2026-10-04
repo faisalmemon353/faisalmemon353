@@ -85,6 +85,9 @@ An Agricultural Subsidy and Input Management System designed to streamline subsi
 
 </td>
 
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -103,31 +106,23 @@ A database-driven Management Information System developed to manage disaster-rel
 </a>
 
 </td>
+
 </tr>
 </table>
 
-### 👥 Project Teams
+<h3>👥 Project Teams</h3>
 
-**🏙️ CivicPulse**  
-[Faisal Memon](https://github.com/faisalmemon353) • [Hassan Zahid](https://github.com/Hassan-Zahid110)
+<p><b>🏙️ CivicPulse:</b><br>
+<sub><a href="https://github.com/faisalmemon353">Faisal Memon</a> • <a href="https://github.com/Hassan-Zahid110">Hassan Zahid</a></sub>
+</p>
 
-**🌱 SeedWise**  
-[Faisal Memon](https://github.com/faisalmemon353) • [Hassan Zahid](https://github.com/Hassan-Zahid110)
+<p><b>🌱 SeedWise:</b><br>
+<sub><a href="https://github.com/faisalmemon353">Faisal Memon</a> • <a href="https://github.com/Hassan-Zahid110">Hassan Zahid</a></sub>
+</p>
 
-**🗄️ Disaster MIS**  
-[Faisal Memon](https://github.com/faisalmemon353) • [Hassan Zahid](https://github.com/Hassan-Zahid110) • [Salman Ahmed](https://github.com/Salman-ahmed-2)
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faisalmemon353&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalmemon353&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<p><b>🗄️ Disaster MIS:</b><br>
+<sub><a href="https://github.com/faisalmemon353">Faisal Memon</a> • <a href="https://github.com/Hassan-Zahid110">Hassan Zahid</a> • <a href="https://github.com/Salman-ahmed-2">Salman Ahmed</a></sub>
+</p>
 ---
 
 ## 🐍 Contribution Activity
