@@ -45,20 +45,47 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🏠 Hostel Facilitator
+<table>
+<tr>
+<td width="50%">
 
+<h3>🏙️ CivicPulse</h3>
+
+<p>
+AI-powered municipal complaint intake and triage platform.
+</p>
+
+<p>
+<b>Tech:</b> React • FastAPI • PostgreSQL • Redis • Docker • Kubernetes • AI
+</p>
+
+<a href="https://github.com/faisalmemon353/civicpulse">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🏠 Hostel Facilitator</h3>
+
+<p>
 A platform designed to help students find and manage hostel accommodation.
+</p>
 
-**Tech:** MERN Stack
+<p>
+<b>Tech:</b> MERN Stack
+</p>
 
-### 🌾 Agricultural Subsidy Management System
+<a href="YOUR-HOSTEL-REPOSITORY-LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
 
-A system designed to manage agricultural subsidy applications, validation, distribution and related processes.
-
-**Tech:** Software Engineering + Database Systems
-
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
