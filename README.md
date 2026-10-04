@@ -44,11 +44,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>🏙️ CivicPulse</h3>
 
@@ -61,7 +63,9 @@ An AI-powered platform for reporting, managing, and intelligently triaging munic
 </p>
 
 <p>
-<b>Team:</b> Faisal Memon • Hassan Zahid
+<b>Team:</b>
+<a href="https://github.com/faisalmemon353">Faisal Memon</a> •
+<a href="https://github.com/Hassan-Zahid110">Hassan Zahid</a>
 </p>
 
 <a href="https://github.com/faisalmemon353/civicpulse">
@@ -69,6 +73,7 @@ An AI-powered platform for reporting, managing, and intelligently triaging munic
 </a>
 
 </td>
+
 </tr>
 </table>
 
