@@ -44,7 +44,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -54,7 +53,7 @@
 <h3>🏙️ CivicPulse</h3>
 
 <p>
-AI-powered municipal complaint intake and triage platform.
+An AI-powered platform for reporting, managing, and intelligently triaging municipal complaints.
 </p>
 
 <p>
@@ -66,26 +65,9 @@ AI-powered municipal complaint intake and triage platform.
 </a>
 
 </td>
-
-<td width="50%">
-
-<h3>🏠 Hostel Facilitator</h3>
-
-<p>
-A platform designed to help students find and manage hostel accommodation.
-</p>
-
-<p>
-<b>Tech:</b> MERN Stack
-</p>
-
-<a href="YOUR-HOSTEL-REPOSITORY-LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
 </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
