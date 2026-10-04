@@ -60,6 +60,10 @@ An AI-powered platform for reporting, managing, and intelligently triaging munic
 <b>Tech:</b> React • FastAPI • PostgreSQL • Redis • Docker • Kubernetes • AI
 </p>
 
+<p>
+<b>Team:</b> Faisal Memon • Hassan Zahid
+</p>
+
 <a href="https://github.com/faisalmemon353/civicpulse">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
 </a>
