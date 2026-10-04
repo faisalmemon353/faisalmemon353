@@ -44,7 +44,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -70,11 +69,32 @@ An AI-powered platform for reporting, managing, and intelligently triaging munic
 
 <td width="50%" valign="top">
 
+<h3>🌱 SeedWise</h3>
+
+<p>
+An Agricultural Subsidy and Input Management System designed to streamline subsidy applications, eligibility verification, and agricultural resource management.
+</p>
+
+<p>
+<b>Focus:</b> Requirements Engineering • Database Design • Management Information Systems
+</p>
+
+<a href="https://github.com/faisalmemon353/SeedWise">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 <h3>🗄️ Disaster MIS</h3>
 
 <p>
-A database-driven Management Information System developed to manage
-disaster-related information, resources, operations, and reporting.
+A database-driven Management Information System developed to manage disaster-related information, resources, operations, and reporting.
 </p>
 
 <p>
@@ -92,17 +112,14 @@ disaster-related information, resources, operations, and reporting.
 
 ### 👥 Project Teams
 
-**🏙️ CivicPulse**
+**🏙️ CivicPulse**  
+[Faisal Memon](https://github.com/faisalmemon353) • [Hassan Zahid](https://github.com/Hassan-Zahid110)
 
-[Faisal Memon](https://github.com/faisalmemon353) •
-[Hassan Zahid](https://github.com/Hassan-Zahid110)
+**🌱 SeedWise**  
+[Faisal Memon](https://github.com/faisalmemon353) • [Hassan Zahid](https://github.com/Hassan-Zahid110)
 
-**🗄️ Disaster MIS**
-
-[Faisal Memon](https://github.com/faisalmemon353) •
-[Hassan Zahid](https://github.com/Hassan-Zahid110) •
-[Salman Ahmed](https://github.com/Salman-ahmed-2)
-
+**🗄️ Disaster MIS**  
+[Faisal Memon](https://github.com/faisalmemon353) • [Hassan Zahid](https://github.com/Hassan-Zahid110) • [Salman Ahmed](https://github.com/Salman-ahmed-2)
 ---
 
 ## 📊 GitHub Stats
